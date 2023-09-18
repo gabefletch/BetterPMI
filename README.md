@@ -2,4 +2,4 @@
 
 BetterPMI (Better Phone/Messages Icons) is an Android icon project by Gabe Fletcher. 
 
-Learn more at the [BetterPMI site.](https://readymag.com/gabefletch/portfolio/betterpmi)
+Development on this project has ended and it is no longer being maintained.
